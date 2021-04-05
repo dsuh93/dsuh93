@@ -1,5 +1,12 @@
 ### Hi there 👋
+Hi there! 😃 My name is David, and I'm a Software Engineer with a background in Biology 🧬 and Physical Therapy 🏃‍. I worked full-time for three years at Robert Wood Johnson Hospital in New Brunswick, NJ as a Physical Therapy aide in a great team, helping various patients each day, so customer service and teamwork are really important to me, and are two skills that I am very proud of. After learning about cutting edge research that would blend virtual reality with stroke rehabilitation, I fell in love with learning about technology that improves quality of life for others. So, I decided to switch careers in the summer of 2020, and found an amazing program at App Academy.
 
+The 1000+ hour rigorous program taught me technologies such as Ruby on Rails, PostgreSQL, HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB. Not only did I develop a strong passion for software development, but also found an amazing community of fellow software developers that I know I can count on for years to come. I love to hike, run, train in judo, and eat Korean BBQ and sushi.
+
+✨Checkout my [Portfolio](https://dsuh93.github.io/portfolio/)!
+🌱 I'm currently learning Python and ES6 JavaScript
+🔭 I'm currently working on a website called [Protect Our Elders](https://protect-our-elders.herokuapp.com/) that will allow volunteers to signup to chaperone the elderly to keep them safe while outdoors
+📫 Thanks for reading! Feel free to connect with me here on [LinkedIn](https://www.linkedin.com/in/david-i-suh/) or via my email at davidisuh93@gmail.com. 
 <!--
 **dsuh93/dsuh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
