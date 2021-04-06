@@ -7,6 +7,8 @@ The 1000+ hour rigorous program taught me technologies such as Ruby on Rails, Po
 - 🌱 I'm currently learning Python and ES6 JavaScript
 - 🔭 I'm currently working on a website called [Protect Our Elders](https://protect-our-elders.herokuapp.com/) that will allow volunteers to signup to chaperone the elderly to keep them safe while outdoors
 - 📫 Thanks for reading! Feel free to connect with me here on [LinkedIn](https://www.linkedin.com/in/david-i-suh/) or via my email at davidisuh93@gmail.com. 
+
+![what I want to do this summer](https://media4.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif)
 <!--
 **dsuh93/dsuh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
