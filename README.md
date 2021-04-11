@@ -9,7 +9,6 @@ The 1000+ hour rigorous program taught me technologies such as Ruby on Rails, Po
 - 📫 Thanks for reading! Feel free to connect with me here on [LinkedIn](https://www.linkedin.com/in/david-i-suh/) or via my email at davidisuh93@gmail.com. 
 
 ![what I want to do this summer](https://media4.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif)
-<div><img src="https://media4.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif"</img></div>
 <!--
 **dsuh93/dsuh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
