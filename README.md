@@ -4,7 +4,7 @@ My name is David 😃 and I'm a Software Engineer with a background in Biology �
 The 1000+ hour rigorous program taught me technologies such as Ruby on Rails, PostgreSQL, HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB. Not only did I develop a strong passion for software development, but also found an amazing community of fellow software developers that I know I can count on for years to come. When I'm not programming 💻, I love to hike 🥾, run 🏃, train in judo 🤼, and eat Korean BBQ 🍖 and sushi 🍣.
 
 - ✨Checkout my [Portfolio](https://dsuh93.github.io/portfolio/)!
-- 🌱 I'm currently learning React Hooks and ES6 JavaScript
+- 🌱 I'm currently learning React Hooks
 - 🔭 I'm currently working on a project for a SublimeLabs that will be a utility for their future website.
 - 📫 Thanks for reading! Feel free to connect with me here on [LinkedIn](https://www.linkedin.com/in/david-i-suh/) or via my email at davidisuh93@gmail.com. 
 
