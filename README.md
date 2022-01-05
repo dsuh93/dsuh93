@@ -5,7 +5,7 @@ The 1000+ hour rigorous program taught me technologies such as Ruby on Rails, Po
 
 - ✨Checkout my [Portfolio](https://dsuh93.github.io/portfolio/)!
 - 🌱 I'm currently learning React Hooks
-- 🔭 I'm currently working on a project for a SublimeLabs that will be a utility for their future website.
+- 🔭 I'm currently working on a clone of Untappd with a Rails v6.1.4 backend and React frontend to practice using Hooks
 - 📫 Thanks for reading! Feel free to connect with me here on [LinkedIn](https://www.linkedin.com/in/david-i-suh/) or via my email at davidisuh93@gmail.com. 
 
 ![what I want to do this summer](https://media4.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif)
