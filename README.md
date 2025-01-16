@@ -3,7 +3,8 @@ My name is David 😃 and I'm a mid-level Software Engineer with a background in
 
 The 1000+ hour rigorous program taught me technologies such as Ruby on Rails, PostgreSQL, HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB. Not only did I develop a strong passion for software development, but also found an amazing community of fellow software developers that I know I can count on for years to come. When I'm not programming 💻, I love to hike 🥾, run 🏃, train in judo 🤼, and eat Korean BBQ 🍖 and sushi 🍣.
 
-The past four years 
+The past four years I've been learning the ropes of what makes a good Software Engineer, but I've recently been motivated to further myself to become a _great_ Software Engineer. I have a long ways to go, but my current roadmap looks like this:
+*insert roadmap here*
 
 - ✨Checkout my [Portfolio] (under construction)!
 - 🌱 I'm currently learning Solidity 
